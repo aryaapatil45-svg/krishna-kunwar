@@ -1,0 +1,12 @@
+Week-1-Task-Submission
+Submission Repository
+Submission Rules
+Create your folder inside your respective week.
+Folder name format: firstname-lastname
+Example: shrish-verma
+
+Upload:
+source code
+screenshots
+README explaining project
+Do NOT edit others' folders.
